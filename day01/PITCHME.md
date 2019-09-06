@@ -102,8 +102,7 @@ Try it together: How could we write a flowchart for determining whether a number
 ---
 ## Directions
 
-* Create pseudocode and a flowchart for generating each number in the fibonacci sequence that is not > 300
-* You may use digital tools (if your AUP is signed) or paper
+* Create pseudocode and a flowchart for generating and displaying each number in the fibonacci sequence that is not > 500
 ---
 ## Evaluation
 
@@ -112,7 +111,6 @@ Try it together: How could we write a flowchart for determining whether a number
 ---
 ## Submitting Work
 
-* Google Classroom (submit correctly!) if digital
-* Put in folder for your class if paper
+* Put in folder for your class
 ---
 ## Remember to get your AUP signed
