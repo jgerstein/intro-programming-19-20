@@ -54,11 +54,8 @@ if student's grade is greater than or equal to 65
 else
     print "fail"
 </pre>
----
-![flowchart](https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png)
----
-![flowchart](https://i.pinimg.com/originals/e2/6d/4c/e26d4c6eb54d5c22a0f0f937aafb308f.jpg)
----
+---?image=https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png
+---?image=https://i.pinimg.com/originals/e2/6d/4c/e26d4c6eb54d5c22a0f0f937aafb308f.jpg
 ## Flowcharts
 
 * Diagram showing an algorithm or process
