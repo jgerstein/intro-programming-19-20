@@ -1,5 +1,5 @@
 ---
-# Intro to Programming
+## Intro to Programming
 
 #### Day 4 - Coding WITH Computers
 ---
