@@ -9,6 +9,7 @@ Sign up for a repl.it account at the link provided, which will also add you to o
 
 * [3-4A](https://repl.it/classroom/invite/egzEw0K)
 * [7-8A](https://repl.it/classroom/invite/ehCNsKT)
+* [3-4B](https://repl.it/classroom/invite/em5m27z)
 ---
 ## Core Concepts
 
