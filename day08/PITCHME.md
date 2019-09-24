@@ -53,9 +53,9 @@ range(max)
 range(min, max)
 range(min, max, step)
 ```
-**input:** max, min/max, or min/max/step
-**process:** generate a range with the specified parameters
-**output:** range object
+* **input:** max, min/max, or min/max/step
+* **process:** generate a range with the specified parameters
+* **output:** range object
 ---
 ## string
 
