@@ -7,7 +7,7 @@
 
 * Functions
 ---
-## Review: Anatomy of a Function
+## Anatomy of a Function
 
 ```python
 def function_name(argument):
