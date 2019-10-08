@@ -1,12 +1,11 @@
 diff = input("Pick easy, medium, or hard >> ").lower()
 
 if diff == 'easy':
-    turns = 15
+    x = 50
 elif diff == 'medium':
-    turns = 8
+    x = 20
 elif diff == 'hard':
-    turns = 5
-
-for n in range(turns):
-    # play game
+    x = 5
+    
+for n in range(x):
     print(n)

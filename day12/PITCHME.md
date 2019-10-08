@@ -45,14 +45,15 @@ my_list[:2]
 my_list[3:]
 ```
 ---
-# Functions and Methods
+### Functions and Methods
 
 * `len(my_list)`
 * `my_list.append(item)`
 * `my_list.insert(index, item)`
 * `my_list.index(item)`
 ---
-# Functions and Methods
+### Functions and Methods
+
 * `my_list.remove(item)`
 * `my_list.sort()`
 * `sorted(my_list)`

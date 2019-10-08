@@ -1,4 +1,6 @@
-while True:
+play_game = True
+
+while active == True:
 
     secret = 5
 
@@ -10,4 +12,10 @@ while True:
         if turns == 1:
             print("You lose")
             break
+    
+    if input("Play again?  ") == 'yes':
+        active = True
+    else:
+        active = False
 
+# print("why not?")
