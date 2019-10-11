@@ -18,6 +18,6 @@ def spiral(sz, growth, ang, max_length):
 
 
 t.speed(0)
-spiral(1, 1.04, 34, 300)
+spiral(1, 1.03, 38, 300)
 
 t.mainloop()
