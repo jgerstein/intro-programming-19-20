@@ -50,6 +50,6 @@ while True:
     result = compare_choices(player_choice, computer_choice)
     adjust_score(result)
     print(score)
-    if score['human'] >= rounds or score['computer'] >= rounds:
+    if score['player'] >= rounds or score['computer'] >= rounds:
         break
 # worry about looping later
