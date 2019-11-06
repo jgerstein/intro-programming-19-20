@@ -1,7 +1,7 @@
 ---
 ## Intro to Programming
 
-#### Day 20 - Object Oriented Programming?
+#### Day 20 - Object Oriented Programming
 ---
 ## Do Now
 
