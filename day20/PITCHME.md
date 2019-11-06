@@ -5,7 +5,7 @@
 ---
 ## Do Now
 
-What are some of the properties of a Pokemon? What are some of the things they can do? How might we create a Pokemon class?
+What are some of the properties of a Pokemon? What are some of the things they can do?
 ---?code=day20/class1.py&lang=python
 
 @[1](We are creating a class called `Cat`)
