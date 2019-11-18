@@ -1,0 +1,20 @@
+outcomes['rock'] --> {'rock':'tie', 'paper':'loss', 'scissors': 'win'}
+outcomes['rock']['paper'] --> 'loss'
+
+outcomes = {
+    rock: {
+        rock -----> tie
+        paper ----> loss
+        scissors -> win
+    },
+    paper: {
+        rock -----> win
+        paper ----> tie
+        scissors -> loss
+    },
+    scissors: {
+        rock -----> loss
+        paper ----> win
+        scissors -> tie
+    }
+}

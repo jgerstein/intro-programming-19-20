@@ -1,7 +1,7 @@
 ---
 ## Intro to Programming
 
-#### Day 5 - Data Types and Variables
+#### Day 5 - Data Types and Variabless
 ---
 ## Do Now
 
