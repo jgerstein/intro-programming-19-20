@@ -1,7 +1,7 @@
 ---
-# Intro to Programming
+## Intro to Programming
 
-#### Unit 2 Section A - Introduce Version Control
+#### Day 24 - Introduce Version Control
 ---
 # Version Control
 ---
