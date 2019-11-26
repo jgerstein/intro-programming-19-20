@@ -10,3 +10,29 @@
 * Accept the link
 * You should now have a new repository in your account
 ---
+## Cloning
+
+* Take the remote repository and make a local copy
+* GUI: `File >> Clone Repository`
+* Command line: `git clone <url-of-your-repo>`
+* We'll clone yours together
+---
+## Readme
+
+* Contains info about the repository
+* Filename is *always* README.md or README.txt
+* Expected in every repository
+---
+## Markdown
+
+* Plain text file with standards for formatting
+* Can be read as plain text, but will be displayed with formatting in many contexts
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Editor](https://stackedit.io/)
+* [Markdown Editor & Cheatsheet](https://daringfireball.net/projects/markdown/dingus)
+---
+## Try It!
+
+* Create a file in the *root* of your repository called "README.md"
+* In that file, write down what you already know about GitHub
+* In a few minutes, we'll *commit* your changes
