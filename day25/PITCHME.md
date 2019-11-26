@@ -24,6 +24,8 @@
 * Filename is *always* README.md or README.txt
 * Expected in every repository
 ---
+![grilled cheese](https://source.unsplash.com/ZB8NK8cB4EE/800x600)
+---
 ## Markdown
 
 * Plain text file with standards for formatting
