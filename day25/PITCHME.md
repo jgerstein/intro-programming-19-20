@@ -10,21 +10,20 @@
 * Accept the link in the *Google Classroom* assignment
 * You should now have a new repository in your account
 * If you can't get into Chrome RDP, do everything but log into GitHub Desktop
+* When you're done, you may log out of Chrome RDP. We won't be needing it for the rest of the lesson
 ---
 ## Cloning
 
 * Take the remote repository and make a local copy
 * GUI: `File >> Clone Repository`
 * Command line: `git clone <url-of-your-repo>`
-* We'll clone yours together
+* We don't need to clone yet. We'll work on this from the browser
 ---
 ## Readme
 
 * Contains info about the repository
 * Filename is *always* README.md or README.txt
 * Expected in every repository
----
-![grilled cheese](https://source.unsplash.com/ZB8NK8cB4EE/800x600)
 ---
 ## Markdown
 
