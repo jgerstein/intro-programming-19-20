@@ -7,7 +7,7 @@
 
 * Log into UCTECH54 on Chrome RDP
 * Sign into GitHub in the web browser *and* GitHub Desktop
-* Accept the link
+* Accept the link in the *Google Classroom* assignment
 * You should now have a new repository in your account
 * If you can't get into Chrome RDP, do everything but log into GitHub Desktop
 ---
