@@ -154,7 +154,7 @@ Checking the *status* of your repository is really important, because it shows y
 4. Add your file to stage it
    
     ```
-    git add README.md
+    $ git add README.md
     ```
 5. Commit your changes to the repository. The `-m` option allows your to include the commit message in the command instead of having to use VIM to add it. Trust me, you don't want to use VIM.
 
