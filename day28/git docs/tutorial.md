@@ -123,7 +123,7 @@ Save your file.
 
 Checking the *status* of your repository is really important, because it shows you what changes have been made, what's been staged, and if you have things you need to commit.
 
-1. Open the terminal <kbc>ctrl</kbd> + <kbd>`</kbd>
+1. Open the terminal <kbd>ctrl</kbd> + <kbd>`</kbd>
 2. Make sure your command line shows that you're still in the hello-world directory
 3. Check status
    
