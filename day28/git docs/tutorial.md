@@ -227,10 +227,10 @@ First, we'll create a remote repository to connect to.
 
 ### Push
 
-Next you'll send everything you've done to the remote repository. The command to do this is:
+Next you'll send everything you've done to the remote repository. The command to do this is usually `git push`, but in this case because it's the first time you're actually connecting to the remote repository, you'll need to use:
 
 ```
-# git push
+# git push --set-upstream origin master
 ```
 
 Check to make sure it pushed correctly by viewing your repository on [GitHub](http://github.com).
