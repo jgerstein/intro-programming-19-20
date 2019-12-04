@@ -1,5 +1,9 @@
 # Git Good
 
+## Installing Git
+
+We're going to need to install one more thing. Go to [git-scm](https://git-scm.com/download/win), download, and install. Set your text editor to VS Code (trust me, you don't want it to be VIM, and if you do you already know and will ignore this anyway), and leave everything else on default.
+
 ## How to read this
 
 * Variables are indicated with angled brackets. `git commit -m <commit message>` is indicating that you should replace `<commit message>` with your actual commit message
