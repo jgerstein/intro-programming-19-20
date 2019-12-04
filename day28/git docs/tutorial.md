@@ -52,7 +52,7 @@ We're going to need to install one more thing. Go to [git-scm](https://git-scm.c
         If email is not set, set it with:
         
         ```
-        $ git config --global user.name <email>
+        $ git config --global user.email <email>
         ```
 ---
 ## Create a Repository
