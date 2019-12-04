@@ -164,7 +164,7 @@ Checking the *status* of your repository is really important, because it shows y
 
 ### Make Changes
 
-1. Add another line to README.md
+1. Add another line to README.md and save.
 2. Tell git to show you the *diff*erence between the current version and the version in the most recent commit with the following command:
    
     ```
