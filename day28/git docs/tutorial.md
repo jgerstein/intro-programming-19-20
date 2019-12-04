@@ -57,7 +57,7 @@ We're going to need to install one more thing. Go to [git-scm](https://git-scm.c
 ---
 ## Create a Repository
 
-A repository is a collection of files and folders that make up your project. Although we'll usually work with repositories I create for you through Github Classroom, in this case you're going to start by creating a repository of your own. We'll be working with the command line today, but soon I'll show you some alternate ways of working that may make some of you more comfortable. The first step can be accomplished in a lot of ways, but I'll give you two:
+A repository is a collection of files and folders that make up your project. Although we'll usually work with repositories I create for you through Github Classroom, in this case you're going to start by creating a repository of your own. We'll be working with the command line today, but soon I'll show you some alternate ways of working that may make some of you more comfortable. The first step can be accomplished in a lot of ways, but I'll give you two. **Please choose one of these methods, you don't need to do both!**
 
 ### GUI-based
 
