@@ -166,7 +166,7 @@ Checking the *status* of your repository is really important, because it shows y
 
 1. Add another line to README.md and save.
 2. Tell git to show you the *diff*erence between the current version and the version in the most recent commit with the following command:
-   
+
     ```
     $ git diff
     ```
@@ -230,7 +230,7 @@ First, we'll create a remote repository to connect to.
 Next you'll send everything you've done to the remote repository. The command to do this is usually `git push`, but in this case because it's the first time you're actually connecting to the remote repository, you'll need to use:
 
 ```
-# git push --set-upstream origin master
+$ git push --set-upstream origin master
 ```
 
 Check to make sure it pushed correctly by viewing your repository on [GitHub](http://github.com).
