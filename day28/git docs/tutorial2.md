@@ -27,7 +27,7 @@ Last class, you created a repository locally (on your own computer), and then pu
     ```
 6. In VS Code, open the folder for your repo so your command line automatically opens in the right directory and so you can see your files easily.
 ---
-## Python
+## Python Practice
 
 Follow the directions in README.md for your repository to run your code. Don't forget that you'll need to install Pygame - directions are in the README. We'll look together at how the code works.
 ---
