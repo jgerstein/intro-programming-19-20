@@ -57,3 +57,25 @@ When you switch branches, the files on your computer will actually change to ref
     ```
     $ git push --set-upstream origin change-pic
     ```
+
+---
+## Merging
+
+Common commands:
+
+* `git checkout <branch>` to checkout the branch you want to merge into
+* `git merge <branch>` to merge the specified branch into your currently active branch
+
+1. Switch to your master branch
+    ```
+    $ git checkout master
+    ```
+2. Merge your `change-pic` branch into `master`
+    ```
+    $ git merge change-pic
+    ```
+3. Push to origin
+    ```
+    $ git push
+    ```
+4. Check to make sure all your changes are reflected on [GitHub](http://github.com)
